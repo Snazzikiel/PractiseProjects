@@ -1,5 +1,3 @@
-**First project with Python
+Applications I made to teach myself Python and how to interact with API data retrieval - public and securely.
 
-An application I made to learn how Python and API retrieval works.
-
-Connected to the Bittrex cryptocurrency trading platform API and actioned on certain criteria
+Multiple random programs in python to automate cryptocurrency trades on Bittrex
